@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-
 -->
-- 🌱 I’m currently learning Softwaare Development
+
+- 🔭 I’m currently on HNG Internship as a Front End Developer
+
+- 🌱 I’m currently learning Software Development
  
 <!-- 
 - 👯 I’m looking to collaborate on ...
