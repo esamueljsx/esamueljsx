@@ -1,9 +1,3 @@
-/* 
-	Bonativo by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,400italic');
 
 ::selection{
@@ -503,7 +497,7 @@ TEAM CSS
 /****work****/
 
 #work{
-    background-color: #f7f7f8;
+    background-color: #e9e9e9;
 }
 .portfolio-thumb {
     margin-bottom: 30px;
