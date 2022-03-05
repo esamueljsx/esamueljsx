@@ -12,11 +12,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://samandcode.hashnode.dev).
 
-<!-- 👦 Learn more about me on [Mainstack](https://mstack.me/goodnessuc).
-
-- 💰 Subscribe to my Web3 newsletter on [Substack](olympus.substack.com). -->
-
-- 💬 Ask me about **Data Analysis; Machine learning; Backend with Go; Typescript**.
+- 💬 Ask me about **Front-End Development; Reactjs;**.
 
 - 📫 How to reach me **Chijiokeemechebe@gmail.com**
 
@@ -26,15 +22,19 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="android" width="40" height="40"/> </a><a href="http://flask.pocoo.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg" alt="android" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" alt="android" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> </a><a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original.svg" alt="android" width="40" height="40"/> </a><a href="https://www.gitbook.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_48e27e5232baea1c96e4115e757c0fde/gitbook.png" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original.svg" alt="android" width="40" height="40"/> </a><p align="left">
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="android" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="android" width="40" height="40"/> </a>
+  <a href="https://netlify.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="android" width="40" height="40"/> </a> 
+<p align="left"> 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/goodnessuc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/goodnessuc" height="30" width="40" /></a>
-<a href="https://twitter.com/goodnessuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodnessuc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/Goodnessuc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastine-odeh-1081a318b/" height="30" width="40" /></a>
-<a href="https://www.mstack.me/Goodnessuc" target="blank"><img align="center" src="https://res.cloudinary.com/codeleaf/image/upload/v1635435782/favico_new.svg" alt="https://www.mstack.me/Goodnessuc" height="30" width="40" /></a>
+<a href="https://twitter.com/_sammyscorner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Samandcode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chijioke-emechebe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastine-odeh-1081a318b/" height="30" width="40" /></a>
 </p>
 
 
