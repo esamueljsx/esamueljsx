@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5"> <img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg" alt="Total time coded since Apr 5 2022" /> </a> </p>
 
 
-<p align="left"> <a href="https://twitter.com/_Sammyscorner" target="blank"><img src="https://img.shields.io/twitter/follow/_sammyscorner?logo=twitter&style=for-the-badge" alt="Samandcode" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/_Sammyscorner" target="blank"><img src="https://img.shields.io/twitter/follow/_sammyscorner?logo=twitter&style=for-the-badge" alt="Samandcode" /></a> </p> -->
 
 
 - 🌱 I’m currently learning **Front-End with Reactjs and Nextjs**.
