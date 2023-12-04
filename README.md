@@ -1,4 +1,3 @@
-<h1 align="center">Hey  😉, I'm Chijioke Samuel Emechebe</h1>
 <h3 align="center"> ICode, IWrite</h3>
 
 ---
