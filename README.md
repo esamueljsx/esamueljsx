@@ -1,5 +1,4 @@
 <h3 align="center"> ICode, IWrite</h3>
-
 ---
 
 <a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5" title="Data update every midnight"><img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
