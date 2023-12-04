@@ -2,7 +2,8 @@
 <h3 align="center"> Primarily, I am a Front-End Developer; I  write about the technologies I use, Cryptocurrencies and Decentralized ledger technologies(Blockchains, DAGs e.t.c)</h3>
 
 
-<
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandcode&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="Samandcode" /> </p>
+  
 
 ##### Total Time
 <a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5" title="Data update every midnight"><img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
