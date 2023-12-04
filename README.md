@@ -45,6 +45,9 @@
 </p>
 
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats-phi-six.vercel.app/api?username=Samandcode&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samandcode&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Samandcode" /></p>
 
