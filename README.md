@@ -1,9 +1,9 @@
 <h1 align="center">Hey  😉, I'm Chijioke Samuel Emechebe</h1>
-<h3 align="center"> Primarily, I am a Front-End Developer; I  write about the technologies </h3>
+<h3 align="center"> Icode; Iwrite</h3>
 
 <a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5" title="Data update every midnight"><img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandcode&label=Profile%20views&color=0e75b6&style=flat" alt="Samandcode" /> &nbsp
-<a href="https://twitter.com/ESamuel_js" target="blank"><img src="https://img.shields.io/twitter/follow/_sammyscorner?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_js" /></a> </p>
+<a href="https://twitter.com/ESamuel_js" target="blank"><img src="https://img.shields.io/twitter/follow/ESamuel_js?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_js" /></a> </p>
 
 ---
 
