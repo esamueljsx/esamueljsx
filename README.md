@@ -1,8 +1,13 @@
 <h1 align="center">Hey  😉, I'm Chijioke Samuel Emechebe</h1>
-<h3 align="center"> Primarily, I am a Front-End Developer; I  write about the technologies I use, Cryptocurrencies and Decentralized ledger technologies(Blockchains, DAGs e.t.c)</h3>
+<h3 align="center"> Primarily, I am a Front-End Developer; I  write about the technologies </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandcode&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="Samandcode" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandcode&label=Profile%20views&color=0e75b6&style=flat" alt="Samandcode" /> &nbsp
+ <a href="https://twitter.com/ESamuel_js" target="blank"><img src="https://img.shields.io/twitter/follow/_sammyscorner?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_js" /></a> </p>
+
+---
   
 
 ##### Total Time
