@@ -7,6 +7,9 @@
   
 <p align="left"> <a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5"> <img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg" alt="Total time coded since Apr 5 2022" /> </a> </p>
 
+##### Total Time
+<a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5" title="Data update every midnight"><img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
+
 
 <!-- <p align="left"> <a href="https://twitter.com/_Sammyscorner" target="blank"><img src="https://img.shields.io/twitter/follow/_sammyscorner?logo=twitter&style=for-the-badge" alt="Samandcode" /></a> </p> -->
 
