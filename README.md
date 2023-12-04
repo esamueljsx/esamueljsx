@@ -56,3 +56,8 @@
 
 ### Github Trophies 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
+
+### WakaTime Coding Activity
+<a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5" title="Data update every midnight"><img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
+
+---
