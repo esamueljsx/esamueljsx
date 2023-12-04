@@ -48,10 +48,14 @@
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-phi-six.vercel.app/api?username=Samandcode&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samandcode&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Streak Stats Activity
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samandcode&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Samandcode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samandcode&show_icons=true&locale=en&theme=onedark" alt="Samandcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samandcode&&theme=onedark" alt="Samandcode" /></p>
 
