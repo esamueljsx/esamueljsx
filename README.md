@@ -54,9 +54,5 @@
 ### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samandcode&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Samandcode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samandcode&&theme=onedark" alt="Samandcode" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samandcode&theme=onedark" alt="Samandcode" /></a> </p>
+### Github Trophies 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
