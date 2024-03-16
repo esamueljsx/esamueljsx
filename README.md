@@ -5,7 +5,7 @@
 
 ---
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=samandcode&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Samandcode&data=followers,repositories,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
