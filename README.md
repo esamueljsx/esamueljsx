@@ -5,7 +5,7 @@
 
 ---
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Samandcode&data=followers,repositories,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Samandcode&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
