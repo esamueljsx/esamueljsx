@@ -1,17 +1,22 @@
----
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel
+========================================================================================================================================
+
+A Developing Developer
+----------------------------------------
+
+Shhuuuuuuuuuuuussssssshhh!!, Thread carefully, you might wake the bugs, it took some time to put them to sleep. I’m a Self-Taught Frontend Web Developer equipped with the latest techniques in Developing and Designing responsive websites for mobile, tablet, and desktop devices.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandcode&label=Profile%20views&color=0e75b6&style=flat" alt="Samandcode" /> &nbsp
 <a href="https://twitter.com/ESamuel_js" target="blank"><img src="https://img.shields.io/twitter/follow/ESamuel_js?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_js" /></a> </p>
 
----
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Samandcode&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 <h3 align="left">🤝🏻 Connect, Follow and Subscribe:</h3>
 <p align="left">
-  <a href="https://twitter.com/ESamuel_js" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ESamuel_js" /></a>
+  <a href="https://twitter.com/ESamuel_jsx" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ESamuel_jsx" /></a>
   <a href="https://www.linkedin.com/in/chijioke-emechebe/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chijioke Samuel Emechebe" /></a>
   <a href="https://www.instagram.com/_sammyscorner" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Chijioke Samuel Emechebe" /></a>
   <a href="https://samandcode.hashnode.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2563eb?style=for-the-badge&logo=hashnode&logoColor=white" alt="Chijioke Samuel Emechebe" /></a>
@@ -44,9 +49,6 @@
 
 ### Streak Stats Activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### Github Trophies 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### WakaTime Coding Activity
 <a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5" title="Data update every midnight"><img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
