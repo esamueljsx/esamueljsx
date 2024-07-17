@@ -8,7 +8,7 @@ Shhuuuuuuuuuuuussssssshhh!!, Thread carefully, you might wake the bugs, it took 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandcode&label=Profile%20views&color=0e75b6&style=flat" alt="Samandcode" /> &nbsp
-<a href="https://twitter.com/ESamuel_js" target="blank"><img src="https://img.shields.io/twitter/follow/ESamuel_js?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_js" /></a> </p>
+<a href="https://twitter.com/ESamuel_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/ESamuel_jsx?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_jsx" /></a> </p>
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
 
