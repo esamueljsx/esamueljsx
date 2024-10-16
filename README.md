@@ -7,10 +7,10 @@ A Developing Developer
 Shhuuuuuuuuuuuussssssshhh!!, Thread carefully, you might wake the bugs, it took some time to put them to sleep. I’m a Self-Taught Frontend Web Developer equipped with the latest techniques in Developing and Designing responsive websites for mobile, tablet, and desktop devices.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samandcode&label=Profile%20views&color=0e75b6&style=flat" alt="Samandcode" /> &nbsp
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esamueljsx&label=Profile%20views&color=0e75b6&style=flat" alt="esamueljsx" /> &nbsp
 <a href="https://twitter.com/ESamuel_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/ESamuel_jsx?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_jsx" /></a> </p>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=esamueljsx&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -42,13 +42,13 @@ Shhuuuuuuuuuuuussssssshhh!!, Thread carefully, you might wake the bugs, it took 
 ---
 
 ### GitHub Stats 
-![GitHub Stats](https://github-readme-stats-phi-six.vercel.app/api?username=Samandcode&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-phi-six.vercel.app/api?username=esamueljsx&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samandcode&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esamueljsx&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samandcode&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esamueljsx&hide_border=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### WakaTime Coding Activity
 <a href="https://wakatime.com/@ed765184-e1d8-4b63-859c-8ee9774896c5" title="Data update every midnight"><img src="https://wakatime.com/badge/user/ed765184-e1d8-4b63-859c-8ee9774896c5.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
