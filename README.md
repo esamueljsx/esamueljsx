@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=esamueljsx&label=Profile%20views&color=0e75b6&style=flat" alt="esamueljsx" /> &nbsp
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=esamueljsx&label=Profile%20views&color=dc143c"style=flat" alt="esamueljsx" /> &nbsp
 <a href="https://twitter.com/ESamuel_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/ESamuel_jsx?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_jsx" /></a> </p>
 
 
