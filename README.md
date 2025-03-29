@@ -26,7 +26,7 @@ Shhuuuuuuuuuuuussssssshhh!!, Thread carefully, you might wake the bugs, it took 
 ---
 
 <h3 align="left">💻 Languages, Frameworks, and Tools:</h3>
-<p float="left">
+<p float="left" style="display:flex; gap:4px;">
   <img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
   <img style="padding:5px;" align="center" alt="NextJs" width="35px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"/>
   <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
