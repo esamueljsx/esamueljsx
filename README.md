@@ -26,20 +26,25 @@ Shhuuuuuuuuuuuussssssshhh!!, Thread carefully, you might wake the bugs, it took 
 ---
 
 <h3 align="left">💻 Languages, Frameworks, and Tools:</h3>
-<p float="left" style="display:flex; gap:4px;">
-  <img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-  <img style="padding:5px;" align="center" alt="NextJs" width="35px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"/>
-  <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img style="padding:5px;" align="center" alt="Tailwind CSS" width="35px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4">
-  <img style="padding:5px;" align="center" alt="SCSS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-  <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-      <img style="padding:5px;" align="center" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
-  <img style="padding:5px;" align="center" alt="Vercel" width="35px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4">
-  <img style="padding:5px;" align="center" alt="Figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
- </p>
+<p float="left" style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+">
+  <img style="padding: 8px;" align="center" alt="ReactJs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+  <img style="padding: 8px;" align="center" alt="NextJs" width="40px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"/>
+  <img style="padding: 8px;" align="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img style="padding: 8px;" align="center" alt="Tailwind CSS" width="40px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"/>
+  <img style="padding: 8px;" align="center" alt="SCSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+  <img style="padding: 8px;" align="center" alt="BootStrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+  <img style="padding: 8px;" align="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  <img style="padding: 8px;" align="center" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img style="padding: 8px;" align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+  <img style="padding: 8px;" align="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"/>
+  <img style="padding: 8px;" align="center" alt="Vercel" width="40px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4"/>
+  <img style="padding: 8px;" align="center" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+</p>
 
 ---
 
