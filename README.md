@@ -34,6 +34,7 @@ Shhuuuuuuuuuuuussssssshhh!!, Thread carefully, you might wake the bugs, it took 
   <img style="padding:5px;" align="center" alt="SCSS" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
   <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+      <img style="padding:5px;" align="center" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
   <img style="padding:5px;" align="center" alt="Vercel" width="35px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4">
