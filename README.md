@@ -1,5 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=esamueljsx&label=Profile%20views&color=dc143c"style=flat" alt="esamueljsx" /> &nbsp
-<a href="https://twitter.com/ESamuel_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/ESamuel_jsx?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_jsx" /></a> </p>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=esamueljsx&label=Profile%20views&color=dc143c"style=flat" alt="esamueljsx" /> &nbsp
+  <a href="https://twitter.com/ESamuel_jsx" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ESamuel_jsx?logo=twitter&style=flat&color=blueviolet" alt="ESamuel_jsx" />
+  </a> 
+</p>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel
